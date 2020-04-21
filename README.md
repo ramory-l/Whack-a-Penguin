@@ -1,6 +1,7 @@
 # Whack a Penguin
 
 Cool game app for testing reaction!
+![](whack-a-penguin-demo.gif)
 
 ## Built With
 
