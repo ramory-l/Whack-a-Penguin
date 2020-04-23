@@ -6,7 +6,7 @@ Cool game app for testing reaction!
 
 ## Built With
 
-* UIKit framework used
+* SpriteKit framework used
 * Swift programming language
 
 ## Authors
